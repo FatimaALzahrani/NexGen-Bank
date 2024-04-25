@@ -34,7 +34,8 @@ style="color: rgb(55, 53, 47); font-weight: 700; line-height: 1.2; font-size: 40
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-top: 3px; padding-left: 2px; padding-right: 2px; font-size: 1em; font-weight: inherit; margin: 0px;">
 <span style="text-decoration:none;color:inherit" data-token-index="0"
-class="notion-enable-hover">🏦 Get to know our data</span></h1>
+class="notion-enable-hover">🏦 Get to know our data</span>
+</h1>
 </div>
 <div style="margin-left: 4px;"></div>
 </div>
@@ -333,32 +334,35 @@ style="background: rgb(231, 243, 248); font-weight: 500; border: 1px solid rgb(2
 class="notion-table-column-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: -8px; left: calc(50% - 13px); height: 16px; width: 26px; padding: 2px 4px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div role="button" tabindex="-1"
 class="notion-table-row-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: calc(50% - 13px); left: -8px; width: 16px; height: 26px; padding: 4px 2px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <span style="font-weight:600" data-token-index="0"
-    class="notion-enable-hover">Hypotheses</span></div>
+class="notion-enable-hover">Hypotheses</span>
+</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -370,12 +374,13 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 class="notion-table-column-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: -8px; left: calc(50% - 13px); height: 16px; width: 26px; padding: 2px 4px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
@@ -385,7 +390,7 @@ transactions) are less likely to churn.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -397,12 +402,13 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 class="notion-table-column-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: -8px; left: calc(50% - 13px); height: 16px; width: 26px; padding: 2px 4px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
@@ -412,7 +418,7 @@ be actively engaged with the platform.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -424,12 +430,13 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 class="notion-table-column-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: -8px; left: calc(50% - 13px); height: 16px; width: 26px; padding: 2px 4px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
@@ -440,7 +447,7 @@ engaged.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -452,12 +459,13 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 class="notion-table-column-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: -8px; left: calc(50% - 13px); height: 16px; width: 26px; padding: 2px 4px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0; transform: rotate(90deg);">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
@@ -468,7 +476,7 @@ differences influence their likelihood of churning.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -482,23 +490,25 @@ style="background: rgb(231, 243, 248); font-weight: 500; border: 1px solid rgb(2
 class="notion-table-row-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: calc(50% - 13px); left: -8px; width: 16px; height: 26px; padding: 4px 2px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <span style="font-weight:600" data-token-index="0"
-    class="notion-enable-hover">Why do you want to analyze
-    that?</span></div>
+class="notion-enable-hover">Why do you want to analyze
+that?</span>
+</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -514,7 +524,7 @@ Identify key drivers of user engagement and churn.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -530,7 +540,7 @@ Understand user behavior and engagement patterns.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -546,7 +556,7 @@ Identify key factors influencing user retention.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -564,7 +574,7 @@ targeted interventions to improve retention.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -578,23 +588,24 @@ style="background: rgb(231, 243, 248); font-weight: 500; border: 1px solid rgb(2
 class="notion-table-row-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: calc(50% - 13px); left: -8px; width: 16px; height: 26px; padding: 4px 2px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <span style="font-weight:600" data-token-index="0"
-    class="notion-enable-hover">Who is the user?</span>
+class="notion-enable-hover">Who is the user?</span>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -610,7 +621,7 @@ users who actively engage with the platform</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -626,7 +637,7 @@ Users who have encrypted currencies</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -642,7 +653,7 @@ Users who refer others to the platform</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -659,7 +670,7 @@ distinct demographic segments.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -673,22 +684,24 @@ style="background: rgb(231, 243, 248); font-weight: 500; border: 1px solid rgb(2
 class="notion-table-row-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: calc(50% - 13px); left: -8px; width: 16px; height: 26px; padding: 4px 2px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <span style="font-weight:600" data-token-index="0"
-    class="notion-enable-hover">Specifications</span></div>
+class="notion-enable-hover">Specifications</span>
+</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -705,7 +718,7 @@ transactions, and interaction with notifications.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -722,7 +735,7 @@ Identify users with higher cryptocurrency adoption rates.
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -739,7 +752,7 @@ behaviors.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -757,7 +770,7 @@ interaction with notifications within each segment.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -771,23 +784,24 @@ style="background: rgb(231, 243, 248); font-weight: 500; border: 1px solid rgb(2
 class="notion-table-row-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: calc(50% - 13px); left: -8px; width: 16px; height: 26px; padding: 4px 2px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <span style="font-weight:600" data-token-index="0"
-    class="notion-enable-hover">Acceptance Criteria</span>
+class="notion-enable-hover">Acceptance Criteria</span>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -804,7 +818,7 @@ lower churn rates, the hypothesis is supported.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -821,7 +835,7 @@ churn rates, the hypothesis is validated.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -839,7 +853,7 @@ lower churn rates, the hypothesis is confirmed.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -858,7 +872,7 @@ segment, the hypothesis is supported.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -872,22 +886,24 @@ style="background: rgb(231, 243, 248); font-weight: 500; border: 1px solid rgb(2
 class="notion-table-row-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: calc(50% - 13px); left: -8px; width: 16px; height: 26px; padding: 4px 2px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <span style="font-weight:600" data-token-index="0"
-    class="notion-enable-hover">Test</span></div>
+class="notion-enable-hover">Test</span>
+</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -899,19 +915,18 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
-<a
-    href="http://tinyurl.com/Hypothesie1"
-    style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
-    class="notion-link-token notion-focusable-token notion-enable-hover"
-    rel="noopener noreferrer" data-token-index="1"
-    tabindex="0"><span
-        style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--2101135132">✅tinyurl.com/Hypothesie1</span></a>
+<a href="http://tinyurl.com/Hypothesie1"
+style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
+class="notion-link-token notion-focusable-token notion-enable-hover"
+rel="noopener noreferrer" data-token-index="1"
+tabindex="0"><span
+style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
+class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--2101135132">✅tinyurl.com/Hypothesie1</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -923,19 +938,18 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
-<a
-    href="http://tinyurl.com/Hypothesi2"
-    style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
-    class="notion-link-token notion-focusable-token notion-enable-hover"
-    rel="noopener noreferrer" data-token-index="1"
-    tabindex="0"><span
-        style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--899062598">✅tinyurl.com/Hypothesi2</span></a>
+<a href="http://tinyurl.com/Hypothesi2"
+style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
+class="notion-link-token notion-focusable-token notion-enable-hover"
+rel="noopener noreferrer" data-token-index="1"
+tabindex="0"><span
+style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
+class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--899062598">✅tinyurl.com/Hypothesi2</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -947,19 +961,18 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
-<a
-    href="https://tinyurl.com/Hypothese3"
-    style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
-    class="notion-link-token notion-focusable-token notion-enable-hover"
-    rel="noopener noreferrer" data-token-index="1"
-    tabindex="0"><span
-        style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670908">❌https://tinyurl.com/Hypothese3</span></a>
+<a href="https://tinyurl.com/Hypothese3"
+style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
+class="notion-link-token notion-focusable-token notion-enable-hover"
+rel="noopener noreferrer" data-token-index="1"
+tabindex="0"><span
+style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
+class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670908">❌https://tinyurl.com/Hypothese3</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -972,17 +985,17 @@ spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <a href="https://tinyurl.com/Hypothese4"
-    style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
-    class="notion-link-token notion-focusable-token notion-enable-hover"
-    rel="noopener noreferrer" data-token-index="1"
-    tabindex="0"><span
-        style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670909">✅https://tinyurl.com/Hypothese4</span></a>
+style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
+class="notion-link-token notion-focusable-token notion-enable-hover"
+rel="noopener noreferrer" data-token-index="1"
+tabindex="0"><span
+style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
+class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670909">✅https://tinyurl.com/Hypothese4</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -996,22 +1009,24 @@ style="background: rgb(231, 243, 248); font-weight: 500; border: 1px solid rgb(2
 class="notion-table-row-selector"
 style="user-select: none; transition: opacity 150ms ease 0s; cursor: pointer; opacity: 0; pointer-events: none; fill: rgba(55, 53, 47, 0.35); position: absolute; display: flex; align-items: center; justify-content: center; border-radius: 4px; background: white; box-shadow: rgba(15, 15, 15, 0.1) 0px 0px 0px 1px, rgba(15, 15, 15, 0.1) 0px 2px 4px; z-index: 4; top: calc(50% - 13px); left: -8px; width: 16px; height: 26px; padding: 4px 2px;">
 <svg role="graphics-symbol" viewBox="0 0 10 10"
-    class="dragHandle"
-    style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
-    <path
-        d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
-    </path>
-</svg></div>
+class="dragHandle"
+style="width: 14px; height: 14px; display: block; flex-shrink: 0;">
+<path
+d="M3,2 C2.44771525,2 2,1.55228475 2,1 C2,0.44771525 2.44771525,0 3,0 C3.55228475,0 4,0.44771525 4,1 C4,1.55228475 3.55228475,2 3,2 Z M3,6 C2.44771525,6 2,5.55228475 2,5 C2,4.44771525 2.44771525,4 3,4 C3.55228475,4 4,4.44771525 4,5 C4,5.55228475 3.55228475,6 3,6 Z M3,10 C2.44771525,10 2,9.55228475 2,9 C2,8.44771525 2.44771525,8 3,8 C3.55228475,8 4,8.44771525 4,9 C4,9.55228475 3.55228475,10 3,10 Z M7,2 C6.44771525,2 6,1.55228475 6,1 C6,0.44771525 6.44771525,0 7,0 C7.55228475,0 8,0.44771525 8,1 C8,1.55228475 7.55228475,2 7,2 Z M7,6 C6.44771525,6 6,5.55228475 6,5 C6,4.44771525 6.44771525,4 7,4 C7.55228475,4 8,4.44771525 8,5 C8,5.55228475 7.55228475,6 7,6 Z M7,10 C6.44771525,10 6,9.55228475 6,9 C6,8.44771525 6.44771525,8 7,8 C7.55228475,8 8,8.44771525 8,9 C8,9.55228475 7.55228475,10 7,10 Z">
+</path>
+</svg>
+</div>
 <div class="notion-table-cell-text notranslate"
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
 <span style="font-weight:600" data-token-index="0"
-    class="notion-enable-hover">User Stories</span></div>
+class="notion-enable-hover">User Stories</span>
+</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -1031,7 +1046,7 @@ can optimize our notification strategies.</div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -1048,7 +1063,7 @@ style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-wo
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -1065,7 +1080,7 @@ style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-wo
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -1081,7 +1096,7 @@ style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-wo
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
 <div
-    style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
+style="position: absolute; width: 3px; margin-left: -1px; margin-top: -1px; height: calc(100% + 2px); transition: background 150ms ease 50ms; cursor: col-resize; background: rgba(35, 131, 226, 0);">
 </div>
 </div>
 </div>
@@ -1102,7 +1117,8 @@ style="width: 12px; height: 12px; display: block; fill: rgba(55, 53, 47, 0.45); 
 <path
 d="M7.977 14.963c.407 0 .747-.324.747-.723V8.72h5.362c.399 0 .74-.34.74-.747a.746.746 0 00-.74-.738H8.724V1.706c0-.398-.34-.722-.747-.722a.732.732 0 00-.739.722v5.529h-5.37a.746.746 0 00-.74.738c0 .407.341.747.74.747h5.37v5.52c0 .399.332.723.739.723z">
 </path>
-</svg></div>
+</svg>
+</div>
 </div>
 </div>
 </div>
@@ -1119,7 +1135,8 @@ style="width: 12px; height: 12px; display: block; fill: rgba(55, 53, 47, 0.45); 
 <path
 d="M7.977 14.963c.407 0 .747-.324.747-.723V8.72h5.362c.399 0 .74-.34.74-.747a.746.746 0 00-.74-.738H8.724V1.706c0-.398-.34-.722-.747-.722a.732.732 0 00-.739.722v5.529h-5.37a.746.746 0 00-.74.738c0 .407.341.747.74.747h5.37v5.52c0 .399.332.723.739.723z">
 </path>
-</svg></div>
+</svg>
+</div>
 </div>
 </div>
 </div>
@@ -1135,7 +1152,8 @@ style="width: 12px; height: 12px; display: block; fill: rgba(55, 53, 47, 0.45); 
 <path
 d="M7.977 14.963c.407 0 .747-.324.747-.723V8.72h5.362c.399 0 .74-.34.74-.747a.746.746 0 00-.74-.738H8.724V1.706c0-.398-.34-.722-.747-.722a.732.732 0 00-.739.722v5.529h-5.37a.746.746 0 00-.74.738c0 .407.341.747.74.747h5.37v5.52c0 .399.332.723.739.723z">
 </path>
-</svg></div>
+</svg>
+</div>
 </div>
 </div>
 </div>
@@ -1335,7 +1353,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="0" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-ea2dc13e-13fd-4c1b-97fd-0e45db06b8c0--1572977902">BiqQuery
-project </span></a></div>
+project </span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="ea2dc13e-13fd-4c1b-97fd-0e45db06b8c0"
@@ -1366,7 +1385,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="0" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-b7b5a764-5769-4459-a4ef-c201bc03108b--457611212">Notion
-page</span></a></div>
+page</span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="b7b5a764-5769-4459-a4ef-c201bc03108b"
@@ -1397,7 +1417,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="0" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-33ba7ca9-90cf-4345-b2b7-365befa1491c-2062104879">Slack
-Channel </span></a></div>
+Channel </span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="33ba7ca9-90cf-4345-b2b7-365befa1491c"
@@ -1418,8 +1439,10 @@ style="color: rgb(55, 53, 47); font-weight: 700; line-height: 1.2; font-size: 40
 <h1 class="notranslate" spellcheck="true" placeholder="Untitled" data-content-editable-leaf="true"
 contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-top: 3px; padding-left: 2px; padding-right: 2px; font-size: 1em; font-weight: inherit; margin: 0px;">
-<span style="text-decoration:none;color:inherit" data-token-index="0" class="notion-enable-hover">🧹 Clean
-our data</span></h1>
+<span style="text-decoration:none;color:inherit" data-token-index="0" class="notion-enable-hover">🧹
+Clean
+our data</span>
+</h1>
 </div>
 <div class="layout-content" style="min-height: 170px; padding-top: 5px;">
 <div class="notion-page-content"
@@ -1469,7 +1492,8 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">devices</span></div>
+class="notion-enable-hover">devices</span>
+</div>
 <div data-block-id="d654428e-51ed-43e7-8e7a-f2ddb37e9dd1"
 class="notion-selectable notion-text-block"
 style="width: 100%; max-width: 100%; margin-top: 2px; margin-bottom: 1px;">
@@ -1542,7 +1566,8 @@ style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">users</span></div>
+class="notion-enable-hover">users</span>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>
@@ -1934,7 +1959,8 @@ style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">notifications</span></div>
+class="notion-enable-hover">notifications</span>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>
@@ -2087,7 +2113,8 @@ style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">transactions</span></div>
+class="notion-enable-hover">transactions</span>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>
@@ -2280,12 +2307,12 @@ class="notion-selectable notion-text-block"
 style="width: 100%; max-width: 100%; margin-top: 2px; margin-bottom: 0px;">
 <div style="color: inherit; fill: inherit;">
 <div style="display: flex;">
-    <div class="notranslate" spellcheck="true"
-        placeholder=" " data-content-editable-leaf="true"
-        contenteditable="true"
-        style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
-        insufficient balance</div>
-    <div style="position: relative; left: 14px;"></div>
+<div class="notranslate" spellcheck="true"
+placeholder=" " data-content-editable-leaf="true"
+contenteditable="true"
+style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
+insufficient balance</div>
+<div style="position: relative; left: 14px;"></div>
 </div>
 </div>
 </div>
@@ -2319,13 +2346,13 @@ class="notion-selectable notion-text-block"
 style="width: 100%; max-width: 100%; margin-top: 2px; margin-bottom: 0px;">
 <div style="color: inherit; fill: inherit;">
 <div style="display: flex;">
-    <div class="notranslate" spellcheck="true"
-        placeholder=" " data-content-editable-leaf="true"
-        contenteditable="true"
-        style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
-        later in time potentially due to customer reaching
-        out to neo bank</div>
-    <div style="position: relative; left: 14px;"></div>
+<div class="notranslate" spellcheck="true"
+placeholder=" " data-content-editable-leaf="true"
+contenteditable="true"
+style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
+later in time potentially due to customer reaching
+out to neo bank</div>
+<div style="position: relative; left: 14px;"></div>
 </div>
 </div>
 </div>
@@ -2570,7 +2597,8 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-style:italic;font-weight:600" data-token-index="0"
-class="notion-enable-hover">Clean all table in data set</span></div>
+class="notion-enable-hover">Clean all table in data set</span>
+</div>
 <div data-block-id="ed842e37-0ee5-4638-9609-908c4691140c"
 class="notion-selectable notion-callout-block"
 style="width: 100%; max-width: 100%; margin-top: 4px; margin-bottom: 4px;">
@@ -2583,7 +2611,8 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">📱 Clean Device Table</span></div>
+class="notion-enable-hover">📱 Clean Device Table</span>
+</div>
 <div data-block-id="ed842e37-0ee5-4638-9609-908c4691140c"
 class="notion-selectable notion-callout-block"></div>
 </div>
@@ -2707,7 +2736,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="1" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-a3a12cb3-011c-4a69-9cff-1e8560ebae6c-595214120">Our
-querys </span></a></div>
+querys </span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>
@@ -2724,7 +2754,8 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">👤 Clean Users Table</span></div>
+class="notion-enable-hover">👤 Clean Users Table</span>
+</div>
 <div data-block-id="9a35245d-65e2-410a-b7a4-98d01a6d662c"
 class="notion-selectable notion-callout-block"></div>
 </div>
@@ -2925,7 +2956,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="1" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-3dff48e9-0ab3-4ac2-bd7a-e45be48e01b7-674395080">
-Our querys </span></a></div>
+Our querys </span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>
@@ -2942,7 +2974,8 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">💸 Clean Transactions Table</span></div>
+class="notion-enable-hover">💸 Clean Transactions Table</span>
+</div>
 <div data-block-id="475062d4-702e-4995-b9a7-977e6ccc5456"
 class="notion-selectable notion-callout-block"></div>
 </div>
@@ -3116,7 +3149,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="1" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-6f6229fc-1d0b-4acf-aded-e3e569559237--1103411609">Our
-querys </span></a></div>
+querys </span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>
@@ -3133,7 +3167,8 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">🔔 Clean Notifications Table</span></div>
+class="notion-enable-hover">🔔 Clean Notifications Table</span>
+</div>
 <div data-block-id="edb5e774-4525-4a9c-9e8c-8cf4e2b740a4"
 class="notion-selectable notion-callout-block"></div>
 </div>
@@ -3160,7 +3195,8 @@ data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
 class="notion-enable-hover">Checking for Duplicate Rows</span>:
-◦ Ensures data uniqueness, avoiding skewing analysis.</div>
+◦ Ensures data uniqueness, avoiding skewing analysis.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="fc8a6cc2-c06d-4e2c-aa1e-0a65c345f51d"
@@ -3187,7 +3223,8 @@ data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
 class="notion-enable-hover">Removing Duplicate Rows</span>:
-◦ Cleans dataset, preventing redundancy and double counting.</div>
+◦ Cleans dataset, preventing redundancy and double counting.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="2dff909e-a2c3-4683-be2d-f1f1a61d629e"
@@ -3214,7 +3251,8 @@ data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
 class="notion-enable-hover">Converting Data Types</span>:
-◦ Ensures accurate analysis by aligning data formats.</div>
+◦ Ensures accurate analysis by aligning data formats.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="316cae42-6a8b-4b9f-b92e-ee611be0124d"
@@ -3241,7 +3279,8 @@ data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
 class="notion-enable-hover">Checking for a Primary Key (PK)</span>:
-◦ Guarantees data integrity with unique row identifiers.</div>
+◦ Guarantees data integrity with unique row identifiers.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="ff6df5a5-caa6-4c84-b3d2-4decb7777181"
@@ -3265,7 +3304,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="1" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-5f0b4391-cfc3-40ed-83fd-9c3d2494ac57-386741584">Our
-querys </span></a></div>
+querys </span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>
@@ -3327,7 +3367,8 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0" class="notion-enable-hover">1.
-General Data Exploration:</span></div>
+General Data Exploration:</span>
+</div>
 <div data-block-id="4b5dadf5-f344-469f-a273-bd2327b03364"
 class="notion-selectable notion-bulleted_list-block"
 style="width: 100%; max-width: 100%; margin-top: 2px; margin-bottom: 1px;">
@@ -3420,7 +3461,8 @@ style="--pseudoBefore--content: &quot;2.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Categorical Analysis:</span></div>
+class="notion-enable-hover">Categorical Analysis:</span>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="664b8fae-0847-45ce-9c97-86d8e3212da5"
@@ -3497,7 +3539,8 @@ style="--pseudoBefore--content: &quot;3.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Numerical Varible:</span></div>
+class="notion-enable-hover">Numerical Varible:</span>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="9cf08e30-35fc-481e-8729-3199005808fb"
@@ -3521,9 +3564,9 @@ style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-wo
 For the purposes of our analyses, we will only need the
 numeric features from our dataset. Select only these and
 save them in a variable called&nbsp;<span
-    style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em"
-    data-token-index="1" spellcheck="false"
-    class="notion-enable-hover">numeric</span> </div>
+style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em"
+data-token-index="1" spellcheck="false"
+class="notion-enable-hover">numeric</span> </div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="9cf08e30-35fc-481e-8729-3199005808fb"
@@ -3551,7 +3594,8 @@ style="--pseudoBefore--content: &quot;4.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Relationship Analysis:</span></div>
+class="notion-enable-hover">Relationship Analysis:</span>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="ab5e9584-b672-407f-99ea-46eb4e5cc192"
@@ -3600,7 +3644,8 @@ style="cursor:pointer;color:inherit;word-wrap:break-word;font-style:italic;font-
 class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="1" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-class="link-annotation-96cb81e7-b092-434f-8dc1-181171864381--1131787296">notebook 🗒️
+class="link-annotation-96cb81e7-b092-434f-8dc1-181171864381--1131787296">notebook
+🗒️
 </span></a>​
 </div>
 <div style="position: relative; left: 14px;"></div>
@@ -3699,8 +3744,10 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 <div class="notranslate" spellcheck="true" placeholder="Empty quote"
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
-<span style="font-weight:600" data-token-index="0" class="notion-enable-hover"><b>We will
-add some of columns \<\b></span></div>
+<span style="font-weight:600" data-token-index="0" class="notion-enable-hover"><b>We
+will
+add some of columns \<\b></span>
+</div>
 <div data-block-id="b99be2bb-2413-4f9d-b1f2-a3a62a03f224"
 class="notion-selectable notion-numbered_list-block"
 style="width: 100%; max-width: 100%; margin-top: 2px; margin-bottom: 1px;">
@@ -3730,7 +3777,8 @@ class="notion-enable-hover">user_id</span> and computing the mean of
 the <span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="6" spellcheck="false"
-class="notion-enable-hover">num_transactions</span> column.</div>
+class="notion-enable-hover">num_transactions</span> column.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="b99be2bb-2413-4f9d-b1f2-a3a62a03f224"
@@ -3755,14 +3803,16 @@ style="--pseudoBefore--content: &quot;2.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>User State:<\b></span> We determined the
+class="notion-enable-hover"><b>User State:<\b></span> We determined
+the
 state of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
 class="notion-enable-hover">user_state</span>) based on their
 transaction history. Users were categorized into four states: 'active',
 'regular', 'at_risk', and 'churned', depending on the recency of their
-last transaction.</div>
+last transaction.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="128321d2-8967-4427-890d-eb54f55dbc33"
@@ -3787,13 +3837,15 @@ style="--pseudoBefore--content: &quot;3.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Referral Behavior:<\b></span> We inferred
+class="notion-enable-hover"><b>Referral Behavior:<\b></span> We
+inferred
 the referral behavior of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
 class="notion-enable-hover">referral_behavior</span>) based on their
 referral and successful referral counts. Users were categorized as
-'Active Referrer', 'Referrer (No Success)', or 'Non-referrer'.</div>
+'Active Referrer', 'Referrer (No Success)', or 'Non-referrer'.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="1e905a20-33dc-4810-9ffe-5a3c4c4a59a1"
@@ -3818,12 +3870,14 @@ style="--pseudoBefore--content: &quot;4.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Number of Notifications:<\b></span> We
+class="notion-enable-hover"><b>Number of Notifications:<\b></span>
+We
 calculated the total number of notifications each user received (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
 class="notion-enable-hover">num_notifications</span>) by counting
-the occurrences where the notification status was 'SENT'.</div>
+the occurrences where the notification status was 'SENT'.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="d5a233c6-018c-4c17-afff-c20181583b19"
@@ -3848,12 +3902,14 @@ style="--pseudoBefore--content: &quot;5.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Last Activity Date:<\b></span> We converted
+class="notion-enable-hover"><b>Last Activity Date:<\b></span> We
+converted
 the <span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
 class="notion-enable-hover">last_activity_date</span> column to
-datetime format to facilitate further analysis.</div>
+datetime format to facilitate further analysis.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="fc498e9c-7a64-4e53-bebb-432eb3bb772b"
@@ -3878,12 +3934,14 @@ style="--pseudoBefore--content: &quot;6.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Crypto Status:<\b></span> We determined the
+class="notion-enable-hover"><b>Crypto Status:<\b></span> We
+determined the
 crypto status of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
 class="notion-enable-hover">crypto_status</span>) based on whether
-they had unlocked crypto currencies in the app.</div>
+they had unlocked crypto currencies in the app.
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="b92e07b4-3da6-49b9-b2ee-eee1def90bf6"
@@ -3908,13 +3966,15 @@ style="--pseudoBefore--content: &quot;7.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Churn Status:<\b></span> Assuming the <span
+class="notion-enable-hover"><b>Churn Status:<\b></span> Assuming the
+<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
 class="notion-enable-hover">is_churned</span> column already exists
 in the dataset, we incorporated it into our analysis. This column
 typically indicates whether a user has churned (1) or is still active
-(0).</div>
+(0).
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 <div data-block-id="f2da34b1-541e-4dc4-90e7-ee49f59e27e6"
@@ -3938,7 +3998,8 @@ class="notion-link-token notion-focusable-token notion-enable-hover"
 rel="noopener noreferrer" data-token-index="1" tabindex="0"><span
 style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
 class="link-annotation-7a581e29-8d7c-4098-92bf-7223f19bc4d9--999573749">Our
-querys </span></a></div>
+querys </span></a>
+</div>
 <div style="position: relative; left: 14px;"></div>
 </div>
 </div>

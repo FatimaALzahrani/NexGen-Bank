@@ -3746,7 +3746,7 @@ data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0" class="notion-enable-hover"><b>We
 will
-add some of columns \<\b></span>
+add some of columns \</b></span>
 </div>
 <div data-block-id="b99be2bb-2413-4f9d-b1f2-a3a62a03f224"
 class="notion-selectable notion-numbered_list-block"
@@ -3765,7 +3765,7 @@ style="--pseudoBefore--content: &quot;1.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Average Transactions:<\b></span> We
+class="notion-enable-hover"><b>Average Transactions:</b></span> We
 calculated the average number of transactions per user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
@@ -3803,7 +3803,7 @@ style="--pseudoBefore--content: &quot;2.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>User State:<\b></span> We determined
+class="notion-enable-hover"><b>User State:</b></span> We determined
 the
 state of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
@@ -3837,7 +3837,7 @@ style="--pseudoBefore--content: &quot;3.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Referral Behavior:<\b></span> We
+class="notion-enable-hover"><b>Referral Behavior:</b></span> We
 inferred
 the referral behavior of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
@@ -3870,7 +3870,7 @@ style="--pseudoBefore--content: &quot;4.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Number of Notifications:<\b></span>
+class="notion-enable-hover"><b>Number of Notifications:</b></span>
 We
 calculated the total number of notifications each user received (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
@@ -3902,7 +3902,7 @@ style="--pseudoBefore--content: &quot;5.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Last Activity Date:<\b></span> We
+class="notion-enable-hover"><b>Last Activity Date:</b></span> We
 converted
 the <span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
@@ -3934,7 +3934,7 @@ style="--pseudoBefore--content: &quot;6.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Crypto Status:<\b></span> We
+class="notion-enable-hover"><b>Crypto Status:</b></span> We
 determined the
 crypto status of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
@@ -3966,7 +3966,7 @@ style="--pseudoBefore--content: &quot;7.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover"><b>Churn Status:<\b></span> Assuming the
+class="notion-enable-hover"><b>Churn Status:</b></span> Assuming the
 <span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"

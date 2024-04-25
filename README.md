@@ -1482,6 +1482,7 @@ style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-wo
 <div style="position: relative; left: 0px;"></div>
 </div>
 </div>
+<br>
 <div data-block-id="f28e13fd-0278-473b-8302-9690b0afdf43" class="notion-selectable notion-quote-block"
 style="width: 100%; max-width: 640px; margin-top: 4px; margin-bottom: 4px;">
 <blockquote
@@ -1492,7 +1493,7 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">devices</span>
+class="notion-enable-hover"><b>devices</b></span>
 </div>
 <div data-block-id="d654428e-51ed-43e7-8e7a-f2ddb37e9dd1"
 class="notion-selectable notion-text-block"
@@ -1557,6 +1558,7 @@ class="notion-selectable notion-bulleted_list-block"></div>
 </div>
 </div>
 </div>
+<br>
 <div data-block-id="66e7da53-3dc7-4ca2-89fd-01a436f8d0d8"
 class="notion-selectable notion-text-block"
 style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
@@ -1566,7 +1568,7 @@ style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">users</span>
+class="notion-enable-hover"><b>users</b></span>
 </div>
 <div style="position: relative; left: 14px;"></div>
 </div>
@@ -1950,6 +1952,7 @@ and are able to use the product)</div>
 </div>
 </div>
 </div>
+<br>
 <div data-block-id="4c6023a1-d56c-4608-bc98-1960c30a0c36"
 class="notion-selectable notion-text-block"
 style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
@@ -1959,7 +1962,7 @@ style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">notifications</span>
+class="notion-enable-hover"><b>notifications</b></span>
 </div>
 <div style="position: relative; left: 14px;"></div>
 </div>
@@ -2104,6 +2107,7 @@ class="notion-selectable notion-bulleted_list-block"></div>
 </div>
 </div>
 </div>
+<br>
 <div data-block-id="b5b4df02-8bd8-4a52-bcff-e956518b1c31"
 class="notion-selectable notion-text-block"
 style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
@@ -2113,7 +2117,7 @@ style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 1px;">
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">transactions</span>
+class="notion-enable-hover"><b>transactions</b></span>
 </div>
 <div style="position: relative; left: 14px;"></div>
 </div>
@@ -3366,8 +3370,8 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 <div class="notranslate" spellcheck="true" placeholder="Empty quote"
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
-<span style="font-weight:600" data-token-index="0" class="notion-enable-hover">1.
-General Data Exploration:</span>
+<span style="font-weight:600" data-token-index="0" class="notion-enable-hover"><b>1.
+General Data Exploration:</b></span>
 </div>
 <div data-block-id="4b5dadf5-f344-469f-a273-bd2327b03364"
 class="notion-selectable notion-bulleted_list-block"
@@ -3461,7 +3465,7 @@ style="--pseudoBefore--content: &quot;2.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Categorical Analysis:</span>
+class="notion-enable-hover"><b>2. Categorical Analysis:</b></span>
 </div>
 <div style="position: relative; left: 14px;"></div>
 </div>
@@ -3539,7 +3543,7 @@ style="--pseudoBefore--content: &quot;3.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Numerical Varible:</span>
+class="notion-enable-hover"><b>3. Numerical Varible:</b></span>
 </div>
 <div style="position: relative; left: 14px;"></div>
 </div>
@@ -3594,7 +3598,7 @@ style="--pseudoBefore--content: &quot;4.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Relationship Analysis:</span>
+class="notion-enable-hover"><b>4. Relationship Analysis:</b></span>
 </div>
 <div style="position: relative; left: 14px;"></div>
 </div>
@@ -3629,6 +3633,7 @@ class="notion-selectable notion-bulleted_list-block"></div>
 </div>
 </div>
 </div>
+<br>
 <div data-block-id="96cb81e7-b092-434f-8dc1-181171864381"
 class="notion-selectable notion-text-block"
 style="width: 100%; max-width: 100%; margin-top: 1px; margin-bottom: 0px;">

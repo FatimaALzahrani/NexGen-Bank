@@ -899,16 +899,14 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
-<img class="notion-emoji" alt="✅" aria-label="✅"
-    style="width:1em;height:1em;background-repeat:no-repeat;background:url(&quot;/images/emoji/twitter-emoji-spritesheet-64.2d0a6b9b.png&quot;);background-position-x:96.66666666666667%;background-position-y:40%;background-size:6100% 6100%;vertical-align:-0.1em;margin:0 0.1em"
-    src="https://www.notion.so/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><a
+<a
     href="http://tinyurl.com/Hypothesie1"
     style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
     class="notion-link-token notion-focusable-token notion-enable-hover"
     rel="noopener noreferrer" data-token-index="1"
     tabindex="0"><span
         style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--2101135132">tinyurl.com/Hypothesie1</span></a>
+        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--2101135132">✅tinyurl.com/Hypothesie1</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
@@ -925,16 +923,14 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
-<img class="notion-emoji" alt="✅" aria-label="✅"
-    style="width:1em;height:1em;background-repeat:no-repeat;background:url(&quot;/images/emoji/twitter-emoji-spritesheet-64.2d0a6b9b.png&quot;);background-position-x:96.66666666666667%;background-position-y:40%;background-size:6100% 6100%;vertical-align:-0.1em;margin:0 0.1em"
-    src="https://www.notion.so/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><a
+<a
     href="http://tinyurl.com/Hypothesi2"
     style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
     class="notion-link-token notion-focusable-token notion-enable-hover"
     rel="noopener noreferrer" data-token-index="1"
     tabindex="0"><span
         style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--899062598">tinyurl.com/Hypothesi2</span></a>
+        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c--899062598">✅tinyurl.com/Hypothesi2</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
@@ -951,16 +947,14 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
-<img class="notion-emoji" alt="❌" aria-label="❌"
-    style="width:1em;height:1em;background-repeat:no-repeat;background:url(&quot;/images/emoji/twitter-emoji-spritesheet-64.2d0a6b9b.png&quot;);background-position-x:98.33333333333333%;background-position-y:1.6666666666666667%;background-size:6100% 6100%;vertical-align:-0.1em;margin:0 0.1em"
-    src="https://www.notion.so/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw=="><a
+<a
     href="https://tinyurl.com/Hypothese3"
     style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
     class="notion-link-token notion-focusable-token notion-enable-hover"
     rel="noopener noreferrer" data-token-index="1"
     tabindex="0"><span
         style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670908">https://tinyurl.com/Hypothese3</span></a>
+        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670908">❌https://tinyurl.com/Hypothese3</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
@@ -977,16 +971,13 @@ style="color: inherit; fill: inherit; border: 1px solid rgb(233, 233, 231); posi
 spellcheck="true" placeholder=" "
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 7px 9px; background-color: transparent; font-size: 14px; line-height: 20px;">
-<img class="notion-emoji" alt="✅" aria-label="✅"
-    style="width:1em;height:1em;background-repeat:no-repeat;background:url(&quot;/images/emoji/twitter-emoji-spritesheet-64.2d0a6b9b.png&quot;);background-position-x:96.66666666666667%;background-position-y:40%;background-size:6100% 6100%;vertical-align:-0.1em;margin:0 0.1em"
-    src="https://www.notion.so/image/gif;base64,R0lGODlhAQABAIAAAP///wAAACH5BAEAAAAALAAAAAABAAEAAAICRAEAOw==">
 <a href="https://tinyurl.com/Hypothese4"
     style="cursor:pointer;color:inherit;word-wrap:break-word;text-decoration:inherit"
     class="notion-link-token notion-focusable-token notion-enable-hover"
     rel="noopener noreferrer" data-token-index="1"
     tabindex="0"><span
         style="border-bottom:0.05em solid;border-color:rgba(55,53,47,.4);opacity:0.7"
-        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670909">https://tinyurl.com/Hypothese4</span></a>
+        class="link-annotation-79b866e3-a0bf-46aa-8340-310726c0ae6c-546670909">✅https://tinyurl.com/Hypothese4</span></a>
 </div>
 <div
 style="position: absolute; right: 0px; width: 0px; top: 0px; flex-grow: 0; height: 100%; z-index: 1;">
@@ -3708,8 +3699,8 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 <div class="notranslate" spellcheck="true" placeholder="Empty quote"
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
-<span style="font-weight:600" data-token-index="0" class="notion-enable-hover">We will
-add some of columns \</span></div>
+<span style="font-weight:600" data-token-index="0" class="notion-enable-hover"><b>We will
+add some of columns \<\b></span></div>
 <div data-block-id="b99be2bb-2413-4f9d-b1f2-a3a62a03f224"
 class="notion-selectable notion-numbered_list-block"
 style="width: 100%; max-width: 100%; margin-top: 2px; margin-bottom: 1px;">
@@ -3727,7 +3718,7 @@ style="--pseudoBefore--content: &quot;1.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Average Transactions:</span> We
+class="notion-enable-hover"><b>Average Transactions:<\b></span> We
 calculated the average number of transactions per user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
@@ -3764,7 +3755,7 @@ style="--pseudoBefore--content: &quot;2.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">User State:</span> We determined the
+class="notion-enable-hover"><b>User State:<\b></span> We determined the
 state of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
@@ -3796,7 +3787,7 @@ style="--pseudoBefore--content: &quot;3.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Referral Behavior:</span> We inferred
+class="notion-enable-hover"><b>Referral Behavior:<\b></span> We inferred
 the referral behavior of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
@@ -3827,7 +3818,7 @@ style="--pseudoBefore--content: &quot;4.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Number of Notifications:</span> We
+class="notion-enable-hover"><b>Number of Notifications:<\b></span> We
 calculated the total number of notifications each user received (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
@@ -3857,7 +3848,7 @@ style="--pseudoBefore--content: &quot;5.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Last Activity Date:</span> We converted
+class="notion-enable-hover"><b>Last Activity Date:<\b></span> We converted
 the <span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
@@ -3887,7 +3878,7 @@ style="--pseudoBefore--content: &quot;6.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Crypto Status:</span> We determined the
+class="notion-enable-hover"><b>Crypto Status:<\b></span> We determined the
 crypto status of each user (<span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
@@ -3917,7 +3908,7 @@ style="--pseudoBefore--content: &quot;7.&quot;; width: 24px; text-align: center;
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding: 3px 2px; text-align: left;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">Churn Status:</span> Assuming the <span
+class="notion-enable-hover"><b>Churn Status:<\b></span> Assuming the <span
 style="font-family:&quot;SFMono-Regular&quot;, Menlo, Consolas, &quot;PT Mono&quot;, &quot;Liberation Mono&quot;, Courier, monospace;line-height:normal;background:rgba(135,131,120,.15);color:#EB5757;border-radius:4px;font-size:85%;padding:0.2em 0.4em;font-weight:600"
 data-token-index="2" spellcheck="false"
 class="notion-enable-hover">is_churned</span> column already exists

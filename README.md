@@ -2601,7 +2601,7 @@ style="border-left: 3px solid currentcolor; padding-left: 14px; padding-right: 1
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-style:italic;font-weight:600" data-token-index="0"
-class="notion-enable-hover">Clean all table in data set</span>
+class="notion-enable-hover"><b>Clean all table in data set</b></span>
 </div>
 <div data-block-id="ed842e37-0ee5-4638-9609-908c4691140c"
 class="notion-selectable notion-callout-block"
@@ -2615,7 +2615,7 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">📱 Clean Device Table</span>
+class="notion-enable-hover"><b>📱 Clean Device Table</b></span>
 </div>
 <div data-block-id="ed842e37-0ee5-4638-9609-908c4691140c"
 class="notion-selectable notion-callout-block"></div>
@@ -2746,6 +2746,7 @@ querys </span></a>
 </div>
 </div>
 </div>
+<br>
 <div data-block-id="9a35245d-65e2-410a-b7a4-98d01a6d662c"
 class="notion-selectable notion-callout-block"
 style="width: 100%; max-width: 100%; margin-top: 4px; margin-bottom: 4px;">
@@ -2758,7 +2759,7 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">👤 Clean Users Table</span>
+class="notion-enable-hover"><b>👤 Clean Users Table</b></span>
 </div>
 <div data-block-id="9a35245d-65e2-410a-b7a4-98d01a6d662c"
 class="notion-selectable notion-callout-block"></div>
@@ -2966,6 +2967,7 @@ Our querys </span></a>
 </div>
 </div>
 </div>
+<br>
 <div data-block-id="475062d4-702e-4995-b9a7-977e6ccc5456"
 class="notion-selectable notion-callout-block"
 style="width: 100%; max-width: 100%; margin-top: 4px; margin-bottom: 4px;">
@@ -2978,7 +2980,7 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">💸 Clean Transactions Table</span>
+class="notion-enable-hover"><b>💸 Clean Transactions Table</b></span>
 </div>
 <div data-block-id="475062d4-702e-4995-b9a7-977e6ccc5456"
 class="notion-selectable notion-callout-block"></div>
@@ -3159,6 +3161,7 @@ querys </span></a>
 </div>
 </div>
 </div>
+<br>
 <div data-block-id="edb5e774-4525-4a9c-9e8c-8cf4e2b740a4"
 class="notion-selectable notion-callout-block"
 style="width: 100%; max-width: 100%; margin-top: 4px; margin-bottom: 4px;">
@@ -3171,7 +3174,7 @@ style="display: flex; flex-direction: column; min-width: 0px; margin-left: 8px; 
 data-content-editable-leaf="true" contenteditable="true"
 style="max-width: 100%; width: 100%; white-space: pre-wrap; word-break: break-word; caret-color: rgb(55, 53, 47); padding-left: 2px; padding-right: 2px;">
 <span style="font-weight:600" data-token-index="0"
-class="notion-enable-hover">🔔 Clean Notifications Table</span>
+class="notion-enable-hover"><b>🔔 Clean Notifications Table</b></span>
 </div>
 <div data-block-id="edb5e774-4525-4a9c-9e8c-8cf4e2b740a4"
 class="notion-selectable notion-callout-block"></div>

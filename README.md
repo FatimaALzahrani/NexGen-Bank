@@ -4035,8 +4035,8 @@ alt="0004" width="200px" />
 alt="0003" width="200px" />
 <img src="https://github.com/FatimaALzahrani/NexGen-Bank/assets/107775566/86ebd902-17ea-4492-b66c-2db58a0c088e"
 alt="0002" width="200px" />
-<img src="https://github.com/FatimaALzahrani/NexGen-Bank/assets/107775566/2fa72084-a089-41ea-bd44-a0c168eb85c4"
-alt="0001" width="200px" />
+<!-- <img src="https://github.com/FatimaALzahrani/NexGen-Bank/assets/107775566/2fa72084-a089-41ea-bd44-a0c168eb85c4"
+alt="0001" width="200px" /> -->
 <img src="https://github.com/FatimaALzahrani/NexGen-Bank/assets/107775566/ca465d94-ffb5-45b5-86ab-d95ef080ece8"
 alt="0009" width="200px" />
 <img src="https://github.com/FatimaALzahrani/NexGen-Bank/assets/107775566/9ff14242-1199-4b52-88d3-d3e23ce07d1a"
